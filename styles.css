@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    cursor: pointer;
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+h3 {
+    cursor: pointer;
+    background-color: #e0e0e0;
+    padding: 8px;
+    margin: 5px 0;
+}
+
+.content {
+    padding: 0 15px;
+    display: none; /* Initially hide content */
+}
